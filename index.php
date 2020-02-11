@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Stephen CPT Plugin
+Plugin Name: Stephen Custom Product Type Plugin
 Plugin URI: http://itmister.com/
 Description: This is a privately developed software application, for xyz business. You are not expected to disable or uninstall this application, as doing so will make all products under invisible to users.
 Version: 1.0
