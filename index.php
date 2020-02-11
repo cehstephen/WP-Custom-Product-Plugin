@@ -40,7 +40,7 @@ function create_stephen_wp_custom_pt() {
     );
 }
 
-function wporg_add_custom_post_types($query)
+function stephen_add_custom_post_types($query)
 {
     if (is_home() && $query->is_main_query()) {
         $query->set('post_type', ['post', 'page', 'stephen_wp_custom_pt']);
